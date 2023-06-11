@@ -1,0 +1,166 @@
+
+
+@font-face {
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+    src: url(../fonts/Epilogue/Epilogue-VariableFont_wght.ttf);
+    
+}
+.allbody
+{
+    background-color: #28293E;
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+}
+
+.btn-outline-Contact
+{
+    background-color: #28293E !important;
+    border-radius: 7px !important;
+    border: 2px solid #707070 !important;
+}
+.Webflow,.Features
+{
+    color: #EF6D58;
+}
+.Making
+{
+    color: white;
+    font-size: 72px;
+}
+.Agency
+{
+    color: white;
+}
+.btn_Explore
+{
+    background-color: #EF6D58 !important;
+}
+.line
+{
+    background-color: #3A3C56;
+    height: 5px;
+}
+.box_Professional
+{
+    background-color: white;
+    border-radius: 5px;
+}
+.Professional
+{
+    color:#391400;
+    font-size: 24px;
+}
+.Fullservice
+{
+    color:#391400;
+    opacity: 80%;
+}
+.box_Accessibility
+{
+    border: 2px solid #3A3C56;
+}
+.Business
+{
+    color: #707070;
+}
+.Ability
+{
+    color: #B1B1B9;
+}
+.btn_About-Webflow
+{
+    background-color: #B550F8 !important;
+    border-radius: 5px;
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+}
+.box
+{
+    background-color: white;
+    padding: 40px;
+    border-right: 2px solid #F3D1BF;
+}
+
+
+
+.tittel_Box
+{
+    color:#391400;
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+    font-size: 24px;
+    padding-top: 30px;
+}
+.text_Box
+{
+    color:#391400;
+    opacity: 90%;
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+    font-size: 16px;
+}
+.link_box
+{
+    color:#391400;
+    opacity: 70%;
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+    font-size: 16px;
+}
+
+.sec_five
+{
+    background-color: #FDF0E9;
+}
+.btn_About_Me
+{
+    background-color: white !important; 
+    color: #391400;
+    border-right: 2px solid #F3D1BF;
+}
+.postin_img
+{
+    position: relative;
+
+}
+.posti_text
+{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+    font-size: 25px;
+}
+
+
+.postin_img
+{
+    margin-bottom: 10px;
+}
+
+.sec_seven
+{
+    background-color:  #FDF0E9;
+}
+.howtobulid
+{
+    color:#391400;
+    font-family: 'Epilogue-Italic-VariableFont_wght';
+    font-size: 60px;
+}
+.btn_Contact_mes
+{
+    background-color: #EF6D58 !important;
+}
+.sec_nine
+{
+    background-color: white;
+}
+.text_deigtal
+{
+    color: #707070 !important;
+}
+.box_form
+{
+    background-color: white;
+    border-radius: 2px;
+}
+.Copyright
+{
+    color: #B1B2B9;
+}
